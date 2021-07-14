@@ -231,9 +231,8 @@ p {
     display: none;
 }
 
-.banner-img-moblie {
-    display: flex;
-    height: 20%;
+#banner-moblie {
+    height: 40%;
     display: none;
 }
 
